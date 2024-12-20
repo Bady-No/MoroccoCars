@@ -308,7 +308,7 @@ th {
 }
 
 .templatemo-top-section-contact {
-  background: url(/img/welcome-bg.jpg) top center no-repeat;
+  background: url(img/welcome-bg.jpg) top center no-repeat;
   background-size: 100% 550px;
   margin-bottom: 10px;
 }
